@@ -31,9 +31,9 @@ int main () {
                 cout << "Accout Blocked!" << endl;
 
             } else {
-                cout << "Invalid Account Status" << endl;
-                
-            }
+                cout << "Invalid Account Status" << ;
+
+            }endl
 
         } else {
             cout << "Login Failed - Invalid Password." << endl;
